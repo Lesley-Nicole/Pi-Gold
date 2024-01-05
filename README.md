@@ -11,6 +11,7 @@ The "approximated" number 3.1459.. is not the correct value of pi, as it becomes
 - Runs on any Javascript engine
 - Is easily extensible
 - Open Source
+- Includes a precise value of pi plus five more universal constants
 
 ## Install
 Pi-Gold.js can be used in both node.js and in the browser.
@@ -18,20 +19,8 @@ Pi-Gold.js can be used in both node.js and in the browser.
 Install pi-gold.js using npm:
 ```
 npm install pi-gold
+cd pi-gold
 ```
-Or Link via CDN:
-```
-// index.html
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <link href="style.css" rel="stylesheet">
-  <script src="https://cdn.jsdeliver.net/npm/pi-gold@1.0.0/pi-gold.js>
-</head>
-```
-
 ## Usage Example
 ```
 // index.html
@@ -49,13 +38,26 @@ Or Link via CDN:
 ```
 // script.js
 
-import { pii } from "./node-modules/pi-gold/pi-gold.js";
+import { pii, pii2, pii3, pii4, pii5, pii6 } from "./node-modules/pi-gold/pi-gold.js";
 
 document.getElementById("demo").innerHTML = pii;
 ```
 Output:
 ```
 3.144605511029693
+```
+
+### Or you can import pi-gold in your .js file without having to download anything:
+```
+// script.js
+
+import { pii, pii2, pii3, pii4, pii5, pii6 } from "https://esm.sh/pi-gold";
+
+document.getElementById("demo").innerHTML = pii2;
+```
+Output:
+```
+1.272019649514069
 ```
 
 ## Acknowledgements
