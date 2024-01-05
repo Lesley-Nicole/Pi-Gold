@@ -1,5 +1,4 @@
-<h1 align="center"><img src="https://res.cloudinary.com/lesley-z/image/upload/v1704401748/Projects/pi-gold/GOLD_kwn3te.
-png" width="50%"></h1>
+<h1 align="center"><img src="https://res.cloudinary.com/lesley-z/image/upload/v1704401748/Projects/pi-gold/GOLD_kwn3te.png" width="50%"></h1>
 <p align="center"><b><i>Measuring PI, by way of PHI</i></b></p>
 <p align="center"><a href="https://apache.org/licenses/"><img src="https://img.shields.io/badge/License-Apache2.0-green.
 svg"></a></p>
@@ -36,5 +35,4 @@ index.html
 [Apache 2.0](https://apache.org/licenses/)
 <hr>
 
-<a href="https://lesley-nicole.github.io"><img src="https://res.cloudinary.com/lesley-z/image/upload/v1704411220/Branding/
-my-portfolio_c386ev.png" width="33%"></a>
+<a href="https://lesley-nicole.github.io"><img src="https://res.cloudinary.com/lesley-z/image/upload/v1704411220/Branding/my-portfolio_c386ev.png" width="33%"></a>
