@@ -1,0 +1,25 @@
+{
+  "name": "pi-gold",
+  "version": "1.0.0",
+  "description": "Precise measurment of PI by way of PHI, the golden ratio",
+  "main": "pi-gold.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Lesley-Nicole/Pi-Gold.git)"
+  },
+  "keywords": [
+    "pi",
+    "phi",
+    "math"
+  ],
+  "type": "module",
+  "author": "Lesley Nicole <lesley-nicole@protonmail.com> (https://github.com/Lesley-Nicole)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Lesley-Nicole/Pi-Gold/issues"
+  },
+  "homepage": "https://github.com/Lesley-Nicole/Pi-Gold"
+}
