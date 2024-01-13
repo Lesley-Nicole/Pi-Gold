@@ -1,8 +1,6 @@
-<h1 align="center"><img src="https://res.cloudinary.com/lesley-z/image/upload/v1704401748/Projects/pi-gold/GOLD_kwn3te.
-png" width="50%"></h1>
+<h1 align="center"><img src="https://res.cloudinary.com/lesley-z/image/upload/v1704401748/Projects/pi-gold/GOLD_kwn3te.png" width="50%"></h1>
 <p align="center"><b><i>Measuring PI, by way of PHI</i></b></p>
-<p align="center"><a href="https://apache.org/licenses/"><img src="https://img.shields.io/badge/License-Apache2.0-green.
-svg"></a></p>
+<p align="center"><a href="https://apache.org/licenses/"><img src="https://img.shields.io/badge/License-Apache2.0-green.svg"></a></p>
 <hr>
 
 ## Features
@@ -50,10 +48,8 @@ width="auto">
 
 ### Made with Pi-Gold
 ***Pi-Gold Calculator***
-A scientific calculator with the 'pi' key set to the 'Pi-Gold' value.  Check it out [here](https://codepen.io/
-lesley-nicole/pen/BaMqBjp)!
-<p align="center"><img src="https://res.cloudinary.com/lesley-z/image/upload/v1704752009/Projects/pi-gold/
-gold-calc_slofu1.png" width="50%"></p>
+A scientific calculator with the 'pi' key set to the 'Pi-Gold' value.  Check it out [here](https://codepen.io/lesley-nicole/pen/BaMqBjp)!
+<p align="center"><img src="https://res.cloudinary.com/lesley-z/image/upload/v1704752009/Projects/pi-gold/gold-calc_slofu1.png" width="50%"></p>
 
 ## Acknowledgements
 - [Measuring Pi Squaring Phi](https://measuringpisquaringphi.com)
