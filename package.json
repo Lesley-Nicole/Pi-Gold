@@ -1,6 +1,6 @@
 {
   "name": "pi-gold",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Precise measurment of PI by way of PHI, the golden ratio",
   "main": "pi-gold.js",
   "scripts": {
